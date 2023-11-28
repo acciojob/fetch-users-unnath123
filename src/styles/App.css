@@ -1,1 +1,20 @@
-
+*{
+    padding:0;
+    margin:0;
+}
+table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+.container{
+    padding:50px
+}
+button{
+    margin:50px;
+}
+table{
+    width:100%;
+}
+th,td{
+    padding:1rem
+}
